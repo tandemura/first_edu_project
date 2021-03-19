@@ -5,3 +5,5 @@ add some symbols
 
 new branch feature
 second commit in feature
+
+we have two branches. this sentence in feature
